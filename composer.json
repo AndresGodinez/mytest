@@ -1,0 +1,16 @@
+{
+    "name": "agodinez/mytest",
+    "description": "personal project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andres Godinez",
+            "email": "ing.a.godinez@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "^8.3@dev"
+    }
+}
